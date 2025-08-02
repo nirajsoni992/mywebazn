@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.rpsg.in	TRUE	/	FALSE	1999999999	PHPSESSID	i67fnmcsomu69r9e947q5u4cta
+r.rpsg.in	TRUE	/	FALSE	1999999999	PHPSESSID	2ssn3dk5gdpsqcqrfl23j243u1
+
